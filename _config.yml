@@ -9,14 +9,10 @@ version: 2
 name: Jimin Park
 title: Hallym University
 email: fermat308@naver.com
-# email_title: Email (Email title override)
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
