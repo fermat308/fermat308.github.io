@@ -62,7 +62,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
+          
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           
@@ -72,7 +72,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: 
+        title: 장점
         sub_title: 
         caption: 
         link: 
@@ -81,6 +81,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           - 목표를 달성할 때 까지 꺼지지 않는 열정과 끈기.
           - 충돌없는 완만한 성격
+          - 맡은일에 대한 책임감
+          - 완벽함을 추구함
   - title: Education
     layout: list
     content:
