@@ -68,12 +68,13 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           
-  - title: Experience
+  - title: My Advantages
     layout: list
     content:
-      - layout: right
-        title: None
-        sub_title: none
+      - layout: left
+        title: 
+        sub_title: - 목표를 달성할 때 까지 꺼지지 않는 열정과 끈기
+                   - 충돌없는 완만한 성격
         caption: 
         link: 
         quote: >
@@ -94,6 +95,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
+    성우 준비 경력 있음! (대교어린이tv, 투니버스 1차 합격)
+    
 
 # Footer
 footer_show_references: true
