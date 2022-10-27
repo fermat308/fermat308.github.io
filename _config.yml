@@ -73,14 +73,14 @@ content:
     content:
       - layout: left
         title: 
-        sub_title: 목표를 달성할 때 까지 꺼지지 않는 열정과 끈기
-                   충돌없는 완만한 성격
+        sub_title: 
         caption: 
         link: 
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          
+          - 목표를 달성할 때 까지 꺼지지 않는 열정과 끈기.
+          - 충돌없는 완만한 성격
   - title: Education
     layout: list
     content:
