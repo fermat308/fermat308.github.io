@@ -56,10 +56,10 @@ content:
                       # other value (or no value) means no border will be displayed
         title: 아직 없음
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link_text: 
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
+            icon: 
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
           
